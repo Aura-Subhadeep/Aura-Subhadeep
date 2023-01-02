@@ -1,5 +1,6 @@
-<h1 align="left" >Welcome, folks!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+<h1 align="center" >Welcome, folks!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <img src="./pastle test.png">
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-subhadep-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
 [![Twitter Badge](https://img.shields.io/badge/-@_Aura-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Aura)](https://twitter.com/_Aura)
