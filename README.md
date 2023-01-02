@@ -6,4 +6,3 @@
 [![Instagram Badge](https://img.shields.io/badge/-@_Aura-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_Aura/)](https://instagram.com/_Aura)
 ![Dribbble](https://img.shields.io/badge/-Aura-EA4C89?style=flat&logo=dribbble&logoColor=white)
 [![Gmail Badge](https://img.shields.io/badge/-subhadeep-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:subhadeep@gmail.com)](mailto:subhadeep@gmail.com)
-[![Github Badge](http://img.shields.io/badge/-Aura_Subhadeep-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://[[github.com/Defcon27](https://github.com/Aura-Subhadeep)](https://github.com/Aura-Subhadeep)/)
