@@ -8,4 +8,4 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Aura)](https://twitter.com/_Aura)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/AuraSubhadeeP/)](https://t.me/AuraSubhadeeP)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white&link=https://dribbble.com/_Aura/)](https://dribbble.com/_Aura)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-A6A9AA?style=flat&logo=Gmail&logoColor=black&link=mailto:subhadeep@gmail.com)](mailto:subhadeep@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:subhadeepadhikari5@gmail.com)](mailto:subhadeepadhikari5@gmail.com)
