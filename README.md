@@ -35,3 +35,7 @@
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
+##  
+![Aura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aura-Subhadeep&theme=react)
+
+  <img src="https://streak-stats.demolab.com?user=Aura-Subhadeep&theme=react" />
