@@ -1,7 +1,7 @@
-<h1 align="left" >Welcome, folks!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
+
 <img src="./pastle test.png">
 
-<h3 align="left" >A front-end developer who loves marking modern minimalist softwares.</h3>
+<h3 align="center" >A front-end developer who loves marking modern minimalist softwares.</h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%232B2F33.svg?style=flat&logo=google-chrome&logoColor=white&link=https://www.google.com)](https://www.google.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
