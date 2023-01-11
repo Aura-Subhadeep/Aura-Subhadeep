@@ -46,3 +46,6 @@
 
 </a>
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Aura-Subhadeep&color=0e75b6" alt="Aura-Subhadeep" />
+</p>
