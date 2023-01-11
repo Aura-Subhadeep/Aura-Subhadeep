@@ -33,3 +33,14 @@
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+
+##  
+<p align="center">
+<a href="https://github.com/Aura-Subhadeep">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Aura-Subhadeep&show_icons=true&theme=nightowl"/>
+  
+<img src="https://streak-stats.demolab.com?user=Aura-Subhadeep&theme=nightowl" />
+
+</a>
+</p>
