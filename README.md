@@ -42,5 +42,7 @@
   
 <img src="https://streak-stats.demolab.com?user=Aura-Subhadeep&theme=nightowl" />
 
+<img alt="Aura-Subhadeep Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Aura-Subhadeep&theme=nightowl" />
+
 </a>
 </p>
