@@ -36,6 +36,13 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 ##  
-![Aura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aura-Subhadeep&theme=react)
+<p align="center">
+<a href="https://github.com/Aura-Subhadeep">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Aura-Subhadeep&show_icons=true&theme=nightowl"/>
+  
+<img src="https://streak-stats.demolab.com?user=Aura-Subhadeep&theme=nightowl" />
 
-  <img src="https://streak-stats.demolab.com?user=Aura-Subhadeep&theme=react" />
+</a>
+</p>
+
