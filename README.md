@@ -1,5 +1,5 @@
-<!--<h1 align="center" >Welcome, folks!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
-</h1>-->
+<h1 align="center" >Welcome, folks!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+</h1>
 <img src="./pastle test.png">
 
 <h3 align="center" >A front-end developer who loves marking modern minimalist softwares.</h3>
@@ -42,8 +42,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Aura-Subhadeep&show_icons=true&theme=nightowl"/>
   
 <img src="https://streak-stats.demolab.com?user=Aura-Subhadeep&theme=nightowl" />
-  
+
 <img alt="Aura-Subhadeep Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Aura-Subhadeep&theme=nightowl" />
- 
+
 </a>
 </p>
