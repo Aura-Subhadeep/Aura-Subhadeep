@@ -3,7 +3,6 @@
 
 <h3 align="center" >A front-end developer who loves marking modern minimalist softwares.</h3>
 
-<!--<h3 align="left">Connect with me</h3>-->
 ## Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
