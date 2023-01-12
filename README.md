@@ -37,13 +37,9 @@
 ##  
 <p align="center">
 <a href="https://github.com/Aura-Subhadeep">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Aura-Subhadeep&show_icons=true&theme=nightowl"/>
-  
+<img src="https://github-readme-stats-1-aura-subhadeep.vercel.app/api?username=Aura-Subhadeep&show_icons=true&theme=nightowl"/>
 <img src="https://streak-stats.demolab.com?user=Aura-Subhadeep&theme=nightowl" />
-
 <img alt="Aura-Subhadeep Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Aura-Subhadeep&theme=nightowl" />
-
 </a>
 </p>
 <p align="center">
