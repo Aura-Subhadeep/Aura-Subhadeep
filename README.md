@@ -5,6 +5,10 @@
 </a>
 <h3 align="center" >A front-end developer who loves marking modern minimalist softwares.</h3>
 
+<p align="center" >
+I am a CSE student from Northeast India. I’m an avid learner and am interested in web dev and DevOps.<br> Apart from that I also love Graphic designing.<br> I want to collaborate with Developers and designers to learn new things from them.
+</p>
+
 ## Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
