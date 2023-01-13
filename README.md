@@ -11,12 +11,12 @@ I am a CSE student from Northeast India. I’m an avid learner and am interested
 
 ##
 
-- 🔭 I’m currently learning React and Backend tech 
+- 🔭 I’m currently learning React and Backend tech.
 - 💻 Most of my projects are currently private (soon will public)
 - 👀 Ask me about front-end tech and UI/UX or Graphic designing.
-- 📫 You can reach me by my email or Tg
+- 📫 You can reach me by my Twitter or Telegram.
 - ⚡ Fun fact: I love to watch anime.
-- 👯 one tip: I prefer texting
+- 👯 one tip: I prefer texting.
 
 ## Connect with me
 
