@@ -9,6 +9,15 @@
 I am a CSE student from Northeast India. I’m an avid learner and am interested in web dev and DevOps.<br> Apart from that I also love Graphic designing.<br> I want to collaborate with Developers and designers to learn new things from them.
 </p>
 
+##
+
+- 🔭 I’m currently learning React and Backend tech.
+- 💻 Most of my projects are currently private (soon will public)
+- 👀 Ask me about front-end tech and UI/UX or Graphic designing.
+- 📫 You can reach me by my Twitter or Telegram.
+- ⚡ Fun fact: I love to watch anime.
+- 👯 one tip: I prefer texting.
+
 ## Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
