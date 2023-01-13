@@ -6,16 +6,17 @@
 <h3 align="center" >A front-end developer who loves marking modern minimalist softwares.</h3>
 
 <p align="center" >
-I am a CSE student from Northeast India. I’m an avid learner and am interested in web dev and DevOps.<br> Apart from that I also love to explore new technologies.<br> I want to collaborate with Developers and designers to learn new things from them.
+I am a CSE student from Northeast India. I’m an avid learner and am interested in web dev and DevOps.<br> Apart from that I also love Graphic designing.<br> I want to collaborate with Developers and designers to learn new things from them.
 </p>
 
-###
+##
 
-- I’m currently learning React, 
-- Most of my projects are currently private (soon will public)
-- Ask me about front-end tech and UI/UX, I am happy to help.
-- When I am free, I read manga or watch Anime.
--  LinkedIn, Twitter or Telegram.
+- 🔭 I’m currently learning React and Backend tech 
+- 💻 Most of my projects are currently private (soon will public)
+- 👀 Ask me about front-end tech and UI/UX or Graphic designing.
+- 📫 You can reach me by my email or Tg
+- ⚡ Fun fact: I love to watch anime.
+- 👯 one tip: I prefer texting
 
 ## Connect with me
 
