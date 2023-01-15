@@ -58,5 +58,5 @@ I am a CSE student from Northeast India. I’m an avid learner and am interested
 </a>
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Aura-Subhadeep&color=0e75b6" alt="Aura-Subhadeep" />
+<img src="https://komarev.com/ghpvc/?username=Aura-Subhadeep&color=0A0A0A" alt="Aura-Subhadeep" />
 </p>
