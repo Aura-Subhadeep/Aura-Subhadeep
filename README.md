@@ -6,7 +6,7 @@
 <h3 align="center" >A front-end developer who loves marking modern minimalist softwares.</h3>
 
 <p align="center" >
-I am a CSE student from Northeast India. I’m an avid learner and am interested in web dev and DevOps.<br> Apart from that I also love Graphic designing.<br> I want to collaborate with Developers and designers to learn new things from them.
+I am a CSE student from Northeast India.<br> I want to collaborate with Developers and designers to learn new things from them.
 </p>
 
 ##
