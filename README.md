@@ -11,8 +11,8 @@ I am a CSE student from Northeast India.<br> I want to collaborate with Develope
 
 ##
 
-- 🔭 I’m currently learning React and Backend tech.
-- 💻 Most of my projects are currently private (soon will public)
+- 🔭 I’m currently learning React.
+- 💻 Most of my projects are currently WIP (soon will public)
 - 👀 Ask me about front-end tech or Graphic designing.
 - 📫 You can reach me by my email or Telegram.
 - 👯 one tip: I prefer texting.
