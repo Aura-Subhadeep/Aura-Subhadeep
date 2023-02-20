@@ -48,7 +48,7 @@ I am a CSE student from Northeast India.<br> I want to collaborate with Develope
 <p align="center">
 <a href="https://github.com/Aura-Subhadeep">
 <img src="https://github-readme-stats-1-sable-seven.vercel.app/api?username=Aura-Subhadeep&show_icons=true&theme=nightowl"/>
-<img src="https://streak-stats.demolab.com?user=Aura-Subhadeep&theme=nightowl" />
+<img src="https://streak-stats.demolab.com?user=Aura-Subhadeep&theme=nightowl&count_private=true" />
 <img alt="Aura-Subhadeep Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Aura-Subhadeep&theme=nightowl" />
 </a>
 </p>
