@@ -1,13 +1,8 @@
-<h1 align="center" >Welcome, folks!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+<h1 align="left" >Hey, i am subhadeep!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 </h1>
 <a href="https://github.com/Aura-Subhadeep">
-<img src="./pastle test.png">
-</a>
-<h3 align="center" >A front-end developer who loves marking modern minimalist softwares.</h3>
 
-<p align="center" >
-I am a CSE student from Northeast India. I’m an avid learner and am interested in web dev and DevOps.<br> Apart from that I also love Graphic designing.<br> I want to collaborate with Developers and designers to learn new things from them.
-</p>
+<h2 align="left" >I am a CSE student from Northeast India. I’m an avid learner and am interested in web dev and DevOps. Apart from that I also love Graphic designing. I want to collaborate with Developers and designers to learn new things from them.
 
 ##
 
