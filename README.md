@@ -2,7 +2,7 @@
 </h1>
 <a href="https://github.com/Aura-Subhadeep">
 
-<h3 align="left" >I am a CSE student from Northeast India.<br> I want to collaborate with Developers and designers to learn new things from them.</h3>
+<h3 align="left" >I am a CSE student from Northeast India.</h3>
 
 ##
 
