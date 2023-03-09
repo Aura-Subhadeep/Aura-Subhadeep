@@ -6,7 +6,7 @@
 
 ##
 
-- 🔭 I’m currently learning React and Backend tech.
+- 🔭 I’m currently learning React.
 - 👀 Ask me about front-end tech or designing.
 - 📫 You can reach me by my Twitter or Telegram.
 - 👯 one tip: I prefer texting.
