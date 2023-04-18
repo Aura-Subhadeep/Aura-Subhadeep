@@ -3,10 +3,10 @@
 <a href="https://github.com/Aura-Subhadeep">
 <img src="./Profile-image.png">
 </a>
-<h3 align="left" >A front-end developer who loves marking modern minimalist softwares.</h3>
+<h3 align="center" >A front-end developer who loves marking modern minimalist softwares.</h3>
 
-<p align="left" >
-I am a CSE student from Northeast India. I want to collaborate with Developers and designers to learn new things from them.
+<p align="center" >
+I am a CSE student from Northeast India.<br> I want to collaborate with Developers and designers to learn new things from them.
 </p>
 
 ##
