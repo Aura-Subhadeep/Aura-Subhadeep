@@ -6,7 +6,7 @@
 
 ## About Me 👋
 <p >
-I'm a Full Stack developer who enjoys creating modern and minimalist software. I'm currently studying CSE in Northeast India and I'm always eager to collaborate with other developers and designers to learn new things from them. I'm also exploring the fields of web3, and I'm open to new opportunities and challenges.
+I’m a Full Stack developer with a passion for creating modern and minimalist software. I’m currently pursuing CSE in Northeast India and I love collaborating with other developers and designers to learn new things from them. I’m also fascinated by web3 and I’m always open to new opportunities and challenges.
 </p>
 
 ##
