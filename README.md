@@ -11,8 +11,6 @@ I’m a Full Stack developer with a passion for creating modern and minimalist s
 
 ##
 
-- 🔭 I'm currently working on some personal projects using React JS and other web technologies.
-
 - 👨‍💻 I'm currently learning React JS and backend technologies such as Node JS, Express JS, etc.
 
 - 👋 Feel free to ask me anything about front-end development or graphic design. I love to share my knowledge and experience with other folks and students.
@@ -22,7 +20,7 @@ I’m a Full Stack developer with a passion for creating modern and minimalist s
 ## 📫 You can find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Aura)](https://twitter.com/_Aura)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Aura)](https://twitter.com/Ar__subha)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/AuraSubhadeeP/)](https://t.me/AuraSubhadeeP)
 
 ## 🎨 Tools I use for design and development purposes are:
@@ -34,7 +32,6 @@ I’m a Full Stack developer with a passion for creating modern and minimalist s
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat&logo=vercel&logoColor=000000)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
 
 ## 💻 Some of the technologies I use are: 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
