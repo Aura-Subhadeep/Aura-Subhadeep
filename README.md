@@ -1,6 +1,6 @@
 </h1>
 <a href="https://github.com/Aura-Subhadeep">
-<img src="./Dark.png">
+<img src="./new.png">
 </a>
 
 ## About Me 👋
@@ -11,7 +11,7 @@ I’m a Full Stack developer with a passion for creating modern and minimalist s
 
 ##
 
-- 👨‍💻 I'm currently learning React JS and backend technologies.
+- 👨‍💻 I'm currently learning MERN stack and Product designing.
 
 - 👋 Feel free to ask me anything about Full stack Development or product design. I enjoy sharing my knowledge and experiences with fellow enthusiasts and students.
 
