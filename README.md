@@ -53,7 +53,7 @@ I’m a Full Stack developer with a passion for creating modern and minimalist s
 <p align="center">
 <a href="https://github.com/Aura-Subhadeep">
 <img src="https://github-readme-stats-1-sable-seven.vercel.app/api?username=Aura-Subhadeep&show_icons=true&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=Github+Stats"/>
-<img src="https://streak-stats.demolab.com?user=Aura-Subhadeep&theme=modern-lilac2&background=00000000&hide_border=true" />
+<img src="https://github-readme-streak-status.vercel.app?user=Aura-Subhadeep&theme=modern-lilac2&background=00000000&hide_border=true" />
 <img alt="Aura-Subhadeep Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Aura-Subhadeep&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=Activity+last+30+days&area=true" />
 </a>
 </p>
