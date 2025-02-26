@@ -54,4 +54,3 @@ I’m a Full Stack developer with a passion for creating modern and minimalist s
 ![Github Contributions](https://greptile-stats.vercel.app/api/widget/Aura-Subhadeep/contributions)
 ![Github Highlights](https://greptile-stats.vercel.app/api/widget/Aura-Subhadeep/highlights)
 ![Github Quirk](https://greptile-stats.vercel.app/api/widget/Aura-Subhadeep/quirk)
-![Github Archetype](https://greptile-stats.vercel.app/api/widget/Aura-Subhadeep/archtype)
